@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ozakiyousuke/Programming Practice2/sample5-4'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _freeQueue, symObjAddr: 0x0, symBinAddr: 0x100003BCC, symSize: 0x70 }
+  - { offsetInCU: 0x67, offset: 0x67, size: 0x8, addend: 0x0, symName: _freeQueue, symObjAddr: 0x0, symBinAddr: 0x100003BCC, symSize: 0x70 }
+  - { offsetInCU: 0xB5, offset: 0xB5, size: 0x8, addend: 0x0, symName: _print_queue_list, symObjAddr: 0x70, symBinAddr: 0x100003C3C, symSize: 0x114 }
+  - { offsetInCU: 0xE7, offset: 0xE7, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x184, symBinAddr: 0x100003D50, symSize: 0x1D0 }
+...
